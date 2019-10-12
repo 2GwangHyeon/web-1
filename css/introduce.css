@@ -6,7 +6,7 @@ h1, h2, h3, h4, .navbar-brand {
 }
 body {
   font-family: 'Nanum Gothic';
-  background-color: lightyellow;
+  background-color: rgb(201, 142, 201);
 }
 .navbar {
   border-bottom: gold 5px solid;
